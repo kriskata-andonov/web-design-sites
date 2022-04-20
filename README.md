@@ -1,1 +1,53 @@
-# web-design-sites
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Navigator</title>
+    <link rel="stylesheet" href="./styles/main.css">
+    <link rel="stylesheet" href="./styles/navbar.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="index.html">TBD</a></li>
+            <li><a href="index.html">TBD</a></li>
+        </ul>
+    </nav>
+    <section>
+        <h1 id="navg">Navigator</h1>
+    <div class="picker">
+        <a href="./sub-sites/blog.html">
+            <h1>Blog</h1>
+        </a>
+    </div>
+    <div class="picker">
+        <a href="">
+            <h1>TBD</h1>
+        </a>
+    </div>
+    <div class="picker">
+        <a href="">
+            <h1>TBD</h1>
+        </a>
+    </div>
+    <div class="picker">
+        <a href="">
+            <h1>TBD</h1>
+        </a>
+    </div>
+    <div class="picker">
+        <a href="">
+            <h1>TBD</h1>
+        </a>
+    </div>
+    <div class="picker">
+        <a href="">
+            <h1>TBD</h1>
+        </a>
+    </div>
+    </section>
+</body>
+</html>
